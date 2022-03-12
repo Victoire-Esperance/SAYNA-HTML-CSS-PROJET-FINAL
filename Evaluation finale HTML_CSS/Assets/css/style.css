@@ -1,0 +1,69 @@
+.mama{
+    background-color: #d35649;
+} 
+.une{
+    background-position: absolute;
+    margin: auto;
+    padding: auto;
+    height: 100px;
+}
+.une1{color:#000;
+    width: 10%;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    margin: auto;}
+    
+.un{color: white;
+background-color:#98a5a5}
+
+.arrondir{
+    height: 200px;
+    width: 180px;
+    border-radius: 50%;
+}
+
+.une2{color:#000;
+    width: 10%;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    width: 25%;
+}
+
+footer{color:white ;}
+
+#circle{
+border:2px solid;
+border-radius:50%;
+height:90px;
+width: 90px;
+}
+
+
+/*ABOUT*/
+shadow{
+    padding: 20%;
+    margin-bottom: auto; 
+    background-color: white;
+    border-radius: 10%;
+
+}
+/* search*/
+.yelow{
+    background-color: yellow;
+    color: #ffff;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.menumobile{display: none;}
+@media all and (max-width:640px){
+
+.menumobile{display: block;
+justify-content: center;
+margin-right: auto;
+margin-left: auto;}
+
+.menuweb{display: none;}
+
+}
